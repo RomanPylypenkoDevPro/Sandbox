@@ -64,7 +64,41 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="group_1_number_1_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/group_1_number_1_test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests_group_1/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests_group_2/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="group_2_number_1_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/tests_group_2/group_2_number_1_test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,13 +123,13 @@
         <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_2/__init__.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/__init__.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_2/conftest.py" />
-        <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/group_1_number_1_test.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_2/group_1_number_2_test.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_2/conftest.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_2/group_2_number_2_test.py" />
-        <option value="$PROJECT_DIR$/tests/tests_group_2/group_2_number_1_test.py" />
         <option value="$PROJECT_DIR$/tests/conftest.py" />
         <option value="$PROJECT_DIR$/tests/tests_group_1/conftest.py" />
+        <option value="$PROJECT_DIR$/tests/tests_group_2/group_2_number_1_test.py" />
+        <option value="$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/group_1_number_1_test.py" />
       </list>
     </option>
   </component>
@@ -392,9 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/tests_group_1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -408,21 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/group_1_number_1_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_2/group_1_number_2_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests_group_2/group_2_number_1_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -436,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests_group_2/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/tests_group_2/group_2_number_2_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -450,12 +460,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/tests_group_1/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_group_2/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_group_2/group_2_number_1_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_group_1/gr_1_test_1/group_1_number_1_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
